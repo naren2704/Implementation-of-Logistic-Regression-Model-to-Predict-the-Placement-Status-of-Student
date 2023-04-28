@@ -68,6 +68,8 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 
 ## Output:
 
+![image](https://user-images.githubusercontent.com/118706984/235105973-0491150b-7fcd-4c60-9994-488efc2e2a1e.png)
+
 ![image](https://user-images.githubusercontent.com/118706984/233594429-28db2787-f808-4832-9159-b7305ff23ef9.png)
 
 ## Result:
