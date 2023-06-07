@@ -33,6 +33,7 @@ Program to implement the the Logistic Regression Model to Predict the Placement 
 Developed by: NARENDRAN B
 RegisterNumber:  212222240069
 */
+
 import pandas as pd
 data = pd.read_csv("Placement_Data.csv")
 data.head()
@@ -77,9 +78,32 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 
 ## Output:
 
-![image](https://user-images.githubusercontent.com/118706984/235105973-0491150b-7fcd-4c60-9994-488efc2e2a1e.png)
+## data.head():
 
-![image](https://user-images.githubusercontent.com/118706984/233594429-28db2787-f808-4832-9159-b7305ff23ef9.png)
+![image](https://github.com/naren2704/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118706984/631aba02-05a3-4213-a368-9aa2eaa864dc)
+
+## ACCURACY:
+
+![image](https://github.com/naren2704/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118706984/6cbb7b6e-e0bb-4bf6-805a-724ad98115fe)
+
+
+## CONFUSION MATRIX:
+
+![image](https://github.com/naren2704/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118706984/e632b4c3-7f93-454a-b542-23724c173e09)
+
+
+## CLASS REPORT:
+
+![image](https://github.com/naren2704/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118706984/c30a9470-7289-4fea-91ee-fa9c5ab496cd)
+
+## PREDICTION(Y):
+
+![image](https://github.com/naren2704/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118706984/1db884c1-aecc-4f24-afe2-81b6b477b3dc)
+
+## FINAL PREDICTION:
+
+![image](https://github.com/naren2704/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118706984/d68b90f8-74bf-4ea2-ae54-c3457c0e69de)
+
 
 ## Result:
 
